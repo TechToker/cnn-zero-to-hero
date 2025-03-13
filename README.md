@@ -1,3 +1,3 @@
 # cnn-zero-to-hero
 
-init commit
+init commit v2
